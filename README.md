@@ -3,9 +3,3 @@
 # Addition from Niki
 
 # Second Addition
-
-# Hello World
-
-# Hello Niki
-
-# Hello Pras
